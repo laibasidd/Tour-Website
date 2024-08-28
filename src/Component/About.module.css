@@ -1,0 +1,12 @@
+.section{
+    height: 100%; 
+    width: 100%;
+    position: absolute;
+ top: 50px;
+    display: flex;
+   flex-direction: column;
+    justify-content: center;
+   align-items: center;
+    color:  #fcf8f6b9 ;
+    z-index: 1;
+}
